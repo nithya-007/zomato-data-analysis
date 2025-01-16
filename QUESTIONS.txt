@@ -1,0 +1,13 @@
+ZOMATO ANALYSIS KPIS
+
+Q1:type of resturant do the majority of customers order from
+
+Q2:how many votes for each type of restaurant received from customers
+
+Q3:what are the ratings that the majority of restaurants have received
+
+Q4:what are the ratings that the majority of restaurants have received
+
+Q5:which mode receives maximum rating
+
+Q6:which type of restaurant receied more offline orders, so that zomato can provide customers with good offers
